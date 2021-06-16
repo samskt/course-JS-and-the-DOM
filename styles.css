@@ -1,0 +1,25 @@
+ul{
+    float: left; list-style-type: style none;
+}
+ul li{
+    float: left;margin-left: 20px;
+}
+ul li a{
+    color:aliceblue #fff);text-decoration: none;font-family: sans-serif;padding: 6px 10px;background: #0080cd;
+}
+.active{
+    background-color: #ff0000;color: aliceblue;
+}
+#section1{
+    float: left;
+}
+#section2{
+    float: left;
+}
+#section3{
+    float: left;
+}
+#section4{
+    float: left;
+}
+
